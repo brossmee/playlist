@@ -1,4 +1,7 @@
 #EXTM3U
+//play it in xpola player
+//https://play.google.com/store/apps/details?id=com.xpola.player
+
 #EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### beIN SPORTS (1080P) #####
 EXTVLCOPT:http-user-agent=akotvur3
 #EXTVLCOPT:http-referrer=akotvur3

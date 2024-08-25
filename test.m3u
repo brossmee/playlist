@@ -1,0 +1,916 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### beIN SPORTS (1080P) #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/1.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN SPORTS 1080P",beIN SPORTS 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/2.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN SPORTS 1080P",beIN SPORTS 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/3.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN SPORTS 1080P",beIN SPORTS 3 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/4.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN SPORTS 1080P",beIN SPORTS 4 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/5.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN SPORTS 1080P",beIN SPORTS 5 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/6.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="beIN SPORTS 1080P",beIN SPORTS 6 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/7.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN SPORTS 1080P",beIN SPORTS 7 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/8.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="beIN SPORTS 1080P",beIN SPORTS 8 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/9.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="beIN SPORTS 1080P",beIN SPORTS 9 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/10.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="beIN SPORTS 1080P",beIN XTRA 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/11.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="beIN SPORTS 1080P",beIN XTRA 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/12.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png" group-title="beIN SPORTS 1080P",beIN XTRA 3 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/13.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="beIN SPORTS 1080P",beIN France 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/14.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="beIN SPORTS 1080P",beIN France 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/15.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="beIN SPORTS 1080P",beIN France 3 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/16.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="beIN SPORTS 1080P",beIN English 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/17.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="beIN SPORTS 1080P",beIN English 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/18.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### beIN SPORTS (720P) #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/19.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN SPORTS 720P",beIN SPORTS 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/20.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN SPORTS 720P",beIN SPORTS 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/21.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN SPORTS 720P",beIN SPORTS 3 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/22.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN SPORTS 720P",beIN SPORTS 4 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/23.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN SPORTS 720P",beIN SPORTS 5 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/24.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="beIN SPORTS 720P",beIN SPORTS 6 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/25.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN SPORTS 720P",beIN SPORTS 7 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/26.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="beIN SPORTS 720P",beIN SPORTS 8 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/27.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="beIN SPORTS 720P",beIN SPORTS 9 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/28.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="beIN SPORTS 720P",beIN XTRA 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/29.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="beIN SPORTS 720P",beIN XTRA 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/30.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png" group-title="beIN SPORTS 720P",beIN XTRA 3 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/31.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="beIN SPORTS 720P",beIN France 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/32.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="beIN SPORTS 720P",beIN France 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/33.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="beIN SPORTS 720P",beIN France 3 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/34.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="beIN SPORTS 720P",beIN English 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/35.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="beIN SPORTS 720P",beIN English 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/36.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### beIN SPORTS (360P) #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/37.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN SPORTS 360P",beIN SPORTS 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/38.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN SPORTS 360P",beIN SPORTS 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/39.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN SPORTS 360P",beIN SPORTS 3 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/40.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN SPORTS 360P",beIN SPORTS 4 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/41.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN SPORTS 360P",beIN SPORTS 5 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/42.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="beIN SPORTS 360P",beIN SPORTS 6 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/43.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN SPORTS 360P",beIN SPORTS 7 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/44.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="beIN SPORTS 360P",beIN SPORTS 8 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/45.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="beIN SPORTS 360P",beIN SPORTS 9 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/46.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="beIN SPORTS 360P",beIN XTRA 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/47.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="beIN SPORTS 360P",beIN XTRA 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/48.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png" group-title="beIN SPORTS 360P",beIN XTRA 3 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/49.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="beIN SPORTS 360P",beIN France 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/50.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="beIN SPORTS 360P",beIN France 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/51.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="beIN SPORTS 360P",beIN France 3 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/52.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="beIN SPORTS 360P",beIN English 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/53.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="beIN SPORTS 360P",beIN English 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/54.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### beIN SPORTS (244P) #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/55.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN SPORTS 244P",beIN SPORTS 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/56.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN SPORTS 244P",beIN SPORTS 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/57.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN SPORTS 244P",beIN SPORTS 3 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/58.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN SPORTS 244P",beIN SPORTS 4 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/59.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN SPORTS 244P",beIN SPORTS 5 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/60.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="beIN SPORTS 244P",beIN SPORTS 6 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/61.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN SPORTS 244P",beIN SPORTS 7 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/62.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="beIN SPORTS 244P",beIN SPORTS 8 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/63.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="beIN SPORTS 244P",beIN SPORTS 9 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/64.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="beIN SPORTS 244P",beIN XTRA 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/65.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="beIN SPORTS 244P",beIN XTRA 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/66.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png" group-title="beIN SPORTS 244P",beIN XTRA 3 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/67.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="beIN SPORTS 244P",beIN France 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/68.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="beIN SPORTS 244P",beIN France 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/69.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="beIN SPORTS 244P",beIN France 3 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/70.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="beIN SPORTS 244P",beIN English 1 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/71.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="beIN SPORTS 244P",beIN English 2 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/72.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="beIN SPORTS 244P",beIN News 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/73.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="beIN SPORTS 244P",beIN SPORTS
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/74.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### beIN Entertainment #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/75.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/0000_Boomerang_tv_logo.png" group-title="beIN Entertainment",beIN Boomerang
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/76.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/Jeem-HD-1-01.png" group-title="beIN Entertainment",beIN Jeem
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/77.ts
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/Bara3em-1.png" group-title="beIN Entertainment",beIN Baraem
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/78.ts
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/FATAFEAT-1.png" group-title="beIN Entertainment",beIN Fatafeat
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/79.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/DRAMA_DIGITAL_Mono.png" group-title="beIN Entertainment",beIN Drama
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/80.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/GOURMET_DIGITAL_Mono.png" group-title="beIN Entertainment",beIN Gourmet
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/81.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/SERIES1_DIGITAL_Mono.png" group-title="beIN Entertainment",beIN Series 1
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/82.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/SERIES2_DIGITAL_Mono.png" group-title="beIN Entertainment",beIN Series 2
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/83.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="beIN Entertainment",beIN Movies 1
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/84.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png" group-title="beIN Entertainment",beIN Movies 2
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/85.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="beIN Entertainment",beIN Movies 3
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/86.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="beIN Entertainment",beIN Movies 4
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/87.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/BoxOffice1_DIGITAL_Mono.png" group-title="beIN Entertainment",beIN BOX OFFICE
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/88.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### SSC SPORTS #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/89.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="SSC SPORTS",SSC News
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/90.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="SSC SPORTS",SSC 1
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/91.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="SSC SPORTS",SSC 2
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/92.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="SSC SPORTS",SSC 3
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/93.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="SSC SPORTS",SSC 4
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/94.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="SSC SPORTS",SSC 5
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/95.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="SSC SPORTS",SSC Extra 1
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/96.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="SSC SPORTS",SSC Extra 2
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/97.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="SSC SPORTS",SSC Extra 3
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/98.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### AD SPORTS #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/99.ts
+#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/04/24/642d9e8f3553c-384x384.png" group-title="AD SPORTS",AD Sports 1
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/100.ts
+#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/04/24/642d9e8f3553c-384x384.png" group-title="AD SPORTS",AD Sports 2
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/101.ts
+#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2023-01/yas.webp" group-title="AD SPORTS",YAS Sports
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/102.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### Alkass SPORTS #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/103.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg" group-title="Alkass SPORTS",Alkass 1
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/104.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg" group-title="Alkass SPORTS",Alkass 2
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/105.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg" group-title="Alkass SPORTS",Alkass 3
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/106.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg" group-title="Alkass SPORTS",Alkass 4
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/107.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg" group-title="Alkass SPORTS",Alkass 5
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/108.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg" group-title="Alkass SPORTS",Alkass 6
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/109.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### WEYYAK #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/110.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/weyyak/w1.png" group-title="WEYYAK CHANNELS",Weyyak Drama
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/111.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/weyyak/w2.png" group-title="WEYYAK CHANNELS",Weyyak Action
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/112.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/weyyak/w3.png" group-title="WEYYAK CHANNELS",Weyyak Mix
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/113.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/weyyak/w4.png" group-title="WEYYAK CHANNELS",Weyyak Nawaem
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/114.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OZmduMh4u0GLTrhFlqvoFq-_dM8wdQ7wYCEWz8sVWdVTSI9VdiJ9LAju3CBBeg2Dk9qAc7iT0rc=s900-c-k-c0x00ffffff-no-rj" group-title="WEYYAK CHANNELS",Weyyak Ten
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/115.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l-t-hnDCZ_RS38hwZjnTb1-PlDeM5i3LxyoysVzZxa02c=s900-c-k-c0x00ffffff-no-rj" group-title="WEYYAK CHANNELS",Weyyak Zee Alwan
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/116.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuYhDd0LYLZ7a2FzAypsCkNb-ua2F3fb9akQ&s" group-title="WEYYAK CHANNELS",Weyyak Zee Aflam
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/117.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### Dubai Sports #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/118.ts
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM=w240-h480-rw" group-title="Dubai Sports",Dubai Sports 1
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/119.ts
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM=w240-h480-rw" group-title="Dubai Sports",Dubai Sports 2
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/120.ts
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM=w240-h480-rw" group-title="Dubai Sports",Dubai Sports 3
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/121.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### SPORTS CHANNELS #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/122.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf6OIdn9cAz9-SVJX2SQhKEGJqfYv6ef3dCN6_vj4t4UpWmAk2tdE6DDa_PWLLT5VVqlw&usqp=CAU" group-title="SPORTS CHANNELS",Sharjah Sports
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/123.ts
+#EXTINF:-1 tvg-logo="https://yalla-live.im/wp-content/uploads/2023/11/61478295-44803055.jpg" group-title="SPORTS CHANNELS",‎Arryadia‎
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/124.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiupfAku9ZyEpw3247XmY9J7kBNhBfxTcVYg&s" group-title="SPORTS CHANNELS",Bahrain Sport 
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/125.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1234751929449885696/f1yBnTvd_400x400.jpg" group-title="SPORTS CHANNELS",On Time Sport 1
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/126.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1234751929449885696/f1yBnTvd_400x400.jpg" group-title="SPORTS CHANNELS",On Time Sport 2
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/127.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### Shahid VIP #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/128.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/poster_aflam/original/poster_aflam.jpg?height=379.5&width=675&croppingPoint=&version=1&type=webp" group-title="Shahid VIP",Shahid Aflam
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/129.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_movies/original/thump_movies.jpg?width=297&version=1&type=webp" group-title="Shahid VIP",Shahid movies
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/130.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Masrah_masr/original/thump_Masrah_masr.jpg?width=297&version=1&type=webp" group-title="Shahid VIP",Masrah Masr
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/131.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_movies_thriller/original/thump_movies_thriller.jpg?width=297&version=1&type=webp" group-title="Shahid VIP",Movies Thriller
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/132.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2023/Hanin/Aug/thump_Action/original/thump_Action.jpg?width=297&version=1&type=webp" group-title="Shahid VIP",Movies Action
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/133.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2024/Bedour/thump_WWE_WrestleMania/original/thump_WWE_WrestleMania.jpg?width=297&version=1&type=webp" group-title="Shahid VIP",WrestleMania
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/134.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### MBC GROUP #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/135.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/mbcako/mbc_1.png" group-title="MBC GROUP",MBC 1
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/136.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/mbcako/mbc_2.png" group-title="MBC GROUP",MBC 2
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/137.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/mbcako/mbc_3.png" group-title="MBC GROUP",MBC 3
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/138.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/mbcako/mbc_4.png" group-title="MBC GROUP",MBC 4
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/139.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/mbcako/mbc_5.png" group-title="MBC GROUP",MBC 5
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/140.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD5aLl2R3cyM8eRFtINo5DQxg5q2QdRI_mkg&s" group-title="MBC GROUP",MBC Action
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/141.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/mbcako/mbc_bollywood.png" group-title="MBC GROUP",MBC Bollywood
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/142.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/mbcako/mbc_iraq.png" group-title="MBC GROUP",MBC Iraq
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/143.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/mbcako/mbc_egypt.png" group-title="MBC GROUP",MBC Masr
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/144.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/mbcako/mbc_egypt2.png" group-title="MBC GROUP",MBC Masr 2
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/145.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/pe0woxT7vPNM15BLrrAMdeXnQ2zhDsJDxJJYo2850L9mjLoMkczPPrVTsNB_d1Q3irH_ATJQJGQ=s900-c-k-c0x00ffffff-no-rj" group-title="MBC GROUP",MBC Drama
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/146.ts
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/mbcdrama_poster_chanel/original/mbcdrama_poster_chanel.jpg?height=379.5&width=675&croppingPoint=&version=1&type=webp" group-title="MBC GROUP",MBC Drama Plus
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/147.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/mbcako/mbc_persia.png" group-title="MBC GROUP",MBC Persia
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/148.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX_400x400.jpg" group-title="MBC GROUP",MBC MAX
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/149.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/mbcako/mbc_egypt_us.png" group-title="MBC GROUP",MBC Masr US
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/150.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### NEWS CHANNELS #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/151.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/news/al-jazeera.png" group-title="NEWS CHANNELS",Al Jazeera News
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/152.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/news/al-jazeera.png" group-title="NEWS CHANNELS",Al Jazeera Mubasher
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/153.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/news/al-jazeera.png" group-title="NEWS CHANNELS",Al Jazeera English
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/154.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Cr1_Lziv62BOuEZiDUuegYubmgderGzNUg&s" group-title="NEWS CHANNELS",Al Arabiya
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/155.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIr2dkdMJ1t7xlO_6k5g9TpbFHJQzXu88cyQ&s" group-title="NEWS CHANNELS",DW Arabic
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/156.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iFDIxgLjbqF1boS23SbnoEx0LeZ1gHwN_xHmbPUH3pTJ9oIsEUmy2GUV41kaxbrqiZVPct1ovvU=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS CHANNELS",Syria TV
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/157.ts
+#EXTINF:-1 tvg-logo="https://www.alaraby.com/themes/custom/arabytv/logo-print.png" group-title="NEWS CHANNELS",Al-Araby TV
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/158.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/news/alhwer.png" group-title="NEWS CHANNELS",Al Hiwar Channel
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/159.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/news/al-mayadeen.png" group-title="NEWS CHANNELS",Al Mayadeen
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/160.ts
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/sky-news-arabia.png" group-title="NEWS CHANNELS",Sky News Arabia
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/161.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/news/al-maghribia.png" group-title="NEWS CHANNELS",Al Maghribia 5
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/162.ts
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/c1R5fTWwQYs-ojv5yL301sh46B6srULQ0TlpGkKHeOKpA_997NG4vAVrGSF1xftGd-E7" group-title="NEWS CHANNELS",TRT Arabic
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/163.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/news/asharq-news.png" group-title="NEWS CHANNELS",Asharq News
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/164.ts
+#EXTINF:-1 tvg-logo="https://iforum-sg.c.hihonor.com/eg/eg_data/images/2020/12/23/ccfccc40-4ef0-466a-a8f2-15ca1cc934f8.png?imageId=318311" group-title="NEWS CHANNELS",BBC News Arabic
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/165.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kwIJpqLfuWniF_cMaYT_EfsFOdHLCisrX-vjz_pSFN2pw=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS CHANNELS",Al Hadath News
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/166.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyPFav6uOmsCtTyop1GM8S8LucJ-Ocoy6kvg&s" group-title="NEWS CHANNELS",Cairo News
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/167.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wg9eiR5.png" group-title="NEWS CHANNELS",France 24
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/168.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dA1VOFs.png" group-title="NEWS CHANNELS",Al Ikhbariya
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/169.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### DOCUMENTARY CHANNELS #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/170.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png" group-title="DOCUMENTARY CHANNELS",National Geographic Abu Dhabi
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/171.ts
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/al-jazeera-documentary.png" group-title="DOCUMENTARY CHANNELS",Al Jazeera Documentary
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/172.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2560px-Logo_Nat_Geo_Wild.svg.png" group-title="DOCUMENTARY CHANNELS",Nat Geo WILD
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/173.ts
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/athaqafia.png" group-title="DOCUMENTARY CHANNELS",Cultural
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/174.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="No Group",##### ISLAMIC CHANNELS #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/175.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/religion/quran-tv.png" group-title="ISLAMIC CHANNELS",Quran TV
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/176.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/religion/sunna-tv.png" group-title="ISLAMIC CHANNELS",Sunnah TV
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/177.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/religion/makkah-tv.png" group-title="ISLAMIC CHANNELS",Makkah TV
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/178.ts
+#EXTINF:-1 tvg-logo="https://app.akomov.com/old-data/religion/ayat.png" group-title="ISLAMIC CHANNELS",Ayat TV
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/179.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/98MWmm-I-vtMWaCFAmUUBKlQ8P6Uh_DsWqfqFOGkS3Hvy_ozCfyNdN0UDIMQXOOareLwKoTmfCs=s900-c-k-c0x00ffffff-no-rj" group-title="ISLAMIC CHANNELS",Assadissa TV
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/180.ts
+#EXTINF:-1 tvg-logo="https://i0.wp.com/multies.net/wp-content/uploads/2024/04/Bahrain-Quran.png?fit=350%2C200" group-title="ISLAMIC CHANNELS",Bahrain Quran
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/181.ts
+#EXTINF:-1 tvg-logo="https://almekhlafi-soft.com/wp-content/uploads/2023/12/AKO-TV.webp" group-title="",##### OSN CHANNELS #####
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/182.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1737420087311671296/S211pbPC_400x400.jpg" group-title="OSN CHANNELS",OSN TV Yahala
+EXTVLCOPT:http-user-agent=akotvur3
+#EXTVLCOPT:http-referrer=akotvur3
+#EXTVLCOPT:http-origin=
+https://xtream.akomov.com:443//live/akotvapp/akotvapp/183.ts
